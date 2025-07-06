@@ -4,6 +4,9 @@
 /build
 /tmp
 
+/.next
+/TailWind-v4/node_modules
+
 # Logs
 logs
 *.log
